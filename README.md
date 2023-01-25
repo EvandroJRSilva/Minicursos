@@ -35,3 +35,4 @@ Aulas:
 
 - [Parte 1](IntroduçãoIA/Parte01/../../Introdução_IA/Parte01/Minicurso_IA_Parte01.pdf)
 - [Parte 2](IntroduçãoIA/Parte01/../../Introdução_IA/Parte02/Minicurso_IA_Parte02.pdf)
+- [Parte 3](IntroduçãoIA/Parte01/../../Introdução_IA/Parte03/Minicurso_IA_Parte03.pdf)
