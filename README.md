@@ -24,7 +24,7 @@ Aulas:
 
 ## Introdução ao Aprendizado de Máquina
 
-Apresentação/slides feita com `beamer`. As referências, tanto bilbiográficas quanto dos vídeos estão presentes nos slides. As imagens foram coletadas na Internet.
+Apresentação/slides feita com `beamer`. As referências, tanto bilbiográficas quanto dos vídeos estão presentes nos slides. As imagens foram coletadas na Internet. Para que o arquivo não fique demasiado grande (caso você queira baixar), os vídeos foram retirados do repositório. Ainda assim podem ser acessados pelos links disponíveis nos slides.
 
 Aulas:
 
