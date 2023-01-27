@@ -24,7 +24,7 @@ Aulas:
 
 ## Introdução ao Aprendizado de Máquina
 
-Apresentação/slides feita com `beamer`. As referências, tanto bilbiográficas quanto dos vídeos estão presentes nos slides. As imagens foram coletadas na Internet. Para que o arquivo não fique demasiado grande (caso você queira baixar), os vídeos foram retirados do repositório. Ainda assim podem ser acessados pelos links disponíveis nos slides.
+Apresentação/slides feita com `beamer`. As referências, tanto bilbiográficas quanto dos vídeos estão presentes nos slides. As imagens foram coletadas na Internet.
 
 Aulas:
 
@@ -32,7 +32,7 @@ Aulas:
 - [Parte 2](Intro_ML/Parte02/Minicurso_ML_2.pdf)
 - [Parte 3](Intro_ML/Parte03/Minicurso_ML_3.pdf)
   
-Os vídeos foram baixados do [Youtube](https://www.youtube.com), e aqueles cujo áudio está em Inglês devem ter consigo um arquivo de mesmo nome, porém com extensão `srt`, para legendas.
+Os vídeos foram baixados do [Youtube](https://www.youtube.com), e aqueles cujo áudio está em Inglês devem ter consigo um arquivo de mesmo nome, porém com extensão `srt`, para legendas. Porém, para que o arquivo não fique demasiado grande (caso você queira baixar), os vídeos foram retirados do repositório. Ainda assim podem ser acessados pelos links disponíveis nos slides.
 
 -----
 
@@ -68,3 +68,8 @@ Este minicurso é apresentado de forma diferente, ou seja, em vez de slides em `
     - Python 2
     - Python 3
   - Algumas Desvantagens
+- [Começando pelo começo](Intro_Python/02_Installing.ipynb)
+- [Começando de verdade](Intro_Python/03_Starting.ipynb)
+  - Números
+  - String
+  - Listas
