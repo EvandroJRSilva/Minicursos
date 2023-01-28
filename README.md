@@ -73,3 +73,7 @@ Este minicurso é apresentado de forma diferente, ou seja, em vez de slides em `
   - Números
   - String
   - Listas
+- [Controle de Fluxo](Intro_Python/04_Flux.ipynb)
+  - Blocos de Controle
+  - Blocos de Repetição
+  - Funções
