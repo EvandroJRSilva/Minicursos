@@ -1,0 +1,35 @@
+Sugestão de reestrutura do minicurso
+
+- Introdução
+    + O que é Python
+    + História
+    + Vantagens & Desvantagens
+    + Instalação
+    + Como programar em Python
+    + Operadores
+        * Aritméticos (+  -  *  / % // **)
+        * Atribuição (= += -= /= %= *= //= **=)
+        * Relacionais (> < == != >= <=)
+        * Lógicos (and, or, not)
+        * Pertencimento (in / not in)
+        * Identidade (is / is not)
+        * Binário (& | ^ ~ >> <<)
+- Começando a Programar
+    + Controle de Fluxo
+        * If-Else
+        * While
+        * For
+        * Match
+        * Break e Continue
+    + Estruturas de Dados
+        * Listas
+        * Strings
+        * Tuplas
+        * Conjuntos (Sets)
+        * Dicionários
+- Deixando o programa mais complexo
+    + Funções
+        * Argumentos
+    + Funções Recursivas (implícita nas funções)
+    + Módulos
+    + Pacotes
