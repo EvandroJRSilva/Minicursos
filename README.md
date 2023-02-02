@@ -63,17 +63,36 @@ Este minicurso é apresentado de forma diferente, ou seja, em vez de slides em `
 
 **Sumário**
 
-- [O que é Python?](Intro_Python/01_Whatis.ipynb)
+- [Introdução](Intro_Python/01_Intro.ipynb)
+  - O que é Python
   - História
     - Python 2
     - Python 3
-  - Algumas Desvantagens
-- [Começando pelo começo](Intro_Python/02_Installing.ipynb)
-- [Começando de verdade](Intro_Python/03_Starting.ipynb)
-  - Números
-  - String
-  - Listas
-- [Controle de Fluxo](Intro_Python/04_Flux.ipynb)
-  - Blocos de Controle
-  - Blocos de Repetição
+  - Vantagens e Desvantagens
+    - Desvantagens
+  - Instalando o Python
+  - Operadores
+    - Operadores Aritméticos
+    - Operadores de Atribuição
+    - Operadores Relacionais
+    - Operadores Lógicos
+    - Operadores de Pertencimento
+    - Operadores de Identidade
+    - Operadores Binários
+- [Começando a Programar](Intro_Python/02_Starting.ipynb)
+  - Controle de Fluxo
+    - Blocos de Controle
+      - If-Else
+      - Match
+    - Blocos de Repetição
+      - While
+      - For
+  - Estruturas de Dados
+    - Listas
+    - Strings
+    - Tuplas
+    - Conjuntos (Sets)
+    - Dicionários
+- [Deixando o Programa mais Complexo](Intro_Python/03_Further.ipynb)
   - Funções
+  - Módulos
